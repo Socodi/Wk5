@@ -46,5 +46,21 @@ public class AppWindow {
         frame.pack();
         frame.setSize(400,400);
         frame.setVisible(true);
+
+        // Primitive Variable example
+//        String[] names = {"Jamie", "Abi", "Charlie"};
+//        System.out.println(names[1]);
+//
+//        String abi = names[1];
+//        System.out.println(abi);
+//
+//        abi = "Joseph";
+//
+//        System.out.println(names[1]);
+//        System.out.println(abi);
+        // End
+
+
+
     }
 }
